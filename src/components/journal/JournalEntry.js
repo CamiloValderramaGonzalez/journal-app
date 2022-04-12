@@ -20,7 +20,7 @@ export const JournalEntry = () => {
                 </p>
             </div>
             <div className='journal__entry-date-box'>
-                <spans>Monday</spans>
+                <span>Monday</span>
                 <h4>11</h4>
             </div>
         </div>
